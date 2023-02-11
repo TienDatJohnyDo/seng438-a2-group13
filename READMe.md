@@ -15,5 +15,7 @@ This repository contains
 
 # Appendix A: 
 ## Jira Overview Page
+![Jira](JiraA2Overview.png "Overview")
 
-##Jira Bug view
+## Jira Bug view
+![Jira](JiraA2TestCase.png "Test Case")
