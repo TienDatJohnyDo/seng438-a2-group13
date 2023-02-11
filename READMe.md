@@ -1,7 +1,7 @@
 # SENG 438 Winter 2023 Assignment 2
 
 Assignment 2 for Group 13
-* Tien Dat Johny Dp
+* Tien Dat Johny Do
 * Tommy Dinh
 * Stuart Johnstone
 * Sina Tavakol Moghaddam
