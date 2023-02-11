@@ -8,6 +8,7 @@ Assignment 2 for Group 13
 
 This repository contains
 * Our written lab report
+* Our JFreeChart eclipse project containing libraries and test classes
 * Range class Test Suite
 * DataUtilities class Test Suite
 * Screenshots of our Jira Bug Reporting
