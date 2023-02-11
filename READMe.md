@@ -14,10 +14,9 @@ This repository contains
 * Testing Plan PDF
 * Screenshots of our Jira Bug Reporting
 * Lab 2 manual (from cloned repository)
-* Note : the external libraries our group has used are within the lib folder, as we could not figure out how to add external libraries to the eclipse project without having errors within the buiild path after re-downloading, but it would be within the JFreeChart folder. 
+* Note : The external libraries our group used are within the lib folder, as we could not figure out how to add external libraries to the eclipse project without having errors within the build path after re-downloading, but it would be within the JFreeChart folder just as how we made the Java Project in the lab manual. 
 
 Source/ Reference : https://softwareengineering.stackexchange.com/questions/340696/how-do-you-use-external-libraries-in-git 
-
 
 # Appendix A: 
 ## Jira Overview Page
